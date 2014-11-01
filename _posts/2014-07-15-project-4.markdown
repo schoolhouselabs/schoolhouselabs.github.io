@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Course Kicker PLC
+subtitle: 2014 NYC Big App Winner
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2014-10-01
+img: course_kicker.png
+thumbnail: course_kicker.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: August 2014
+client: Web App
+category: Product Design
+description: Create professional learning community similar to Stack Overflow for teachers, including an algorithm to personalize your community based on your school background. Won<a href='http://nycbigapps.com/bigideawinners' target="_blank"> NYC's Big App Challenge</a> in the Education Category with TFA.
 
 ---
